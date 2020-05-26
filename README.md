@@ -18,3 +18,5 @@ day 006: Had a weekly call with Bartek. I also did research on how to make my pr
 day 007: I actually rested on saturday
 
 day 008: I participated in the algorithm class. I was taught about Linked List
+
+day 009: I will be implementing Docsearch on Thanos website
