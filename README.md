@@ -3,20 +3,22 @@
 This is my journey to becoming proficient in programming.
 Would update it on a daily basis.
 
-Day 001: Started reading a book on Golang
+Day 0001: Started reading a book on Golang
 
-day 002: go lang
+day 0002: go lang
 
-day 003: Setup call with Lucas and Bartek as regards the Thanos CommunityBridge project.
+day 0003: Setup call with Lucas and Bartek as regards the Thanos CommunityBridge project.
 
-day 004: Learnt more about git
+day 0004: Learnt more about git
 
-day 005: Setup Thanos on my local machine.
+day 0005: Setup Thanos on my local machine.
 
-day 006: Had a weekly call with Bartek. I also did research on how to make my proposal to be more clear and concise. I'm following Bartek directive on how to write a good proposal for a software project.
+day 0006: Had a weekly call with Bartek. I also did research on how to make my proposal to be more clear and concise. I'm following Bartek directive on how to write a good proposal for a software project.
 
-day 007: I actually rested on saturday
+day 0007: I actually rested on saturday
 
-day 008: I participated in the algorithm class. I was taught about Linked List
+day 0008: I participated in the algorithm class. I was taught about Linked List
 
-day 009: I will be implementing Docsearch on Thanos website
+day 0009: I will be implementing Docsearch on Thanos website
+
+day 0010: Submitted my first pull request to Thanos..hope it gets merged.
