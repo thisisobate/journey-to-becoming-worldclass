@@ -22,3 +22,5 @@ day 0008: I participated in the algorithm class. I was taught about Linked List
 day 0009: I will be implementing Docsearch on Thanos website
 
 day 0010: Submitted my first pull request to Thanos..hope it gets merged.
+
+day 0011: Had my weekly call with my mentors (Bartek and Lucas). Read about data structures and algorithms.
