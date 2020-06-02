@@ -28,3 +28,5 @@ day 0011: Had my weekly call with my mentors (Bartek and Lucas). Read about data
 day 0012: Wrote a blog post
 
 day 0013: fixed searchbox issue on Thanos
+
+day 0014: research on project
