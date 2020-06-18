@@ -36,3 +36,5 @@ day 0015: read a book on static sites
 day 0016: completed the book on static sites.
 
 day 0017: Published an article
+
+day 0018: worked on my proposal.
