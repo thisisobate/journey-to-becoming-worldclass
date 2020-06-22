@@ -38,3 +38,5 @@ day 0016: completed the book on static sites.
 day 0017: Published an article
 
 day 0018: worked on my proposal.
+
+day 0019: commenced implementation of my thanos project
