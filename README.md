@@ -40,3 +40,5 @@ day 0017: Published an article
 day 0018: worked on my proposal.
 
 day 0019: commenced implementation of my thanos project
+
+day 0020: Implementation ongoing
